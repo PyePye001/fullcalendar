@@ -9,10 +9,10 @@
     "tslib": "^2.0.0"
   },
   "peerDependencies": {
-    "luxon": "^1.12.1"
+    "luxon": "^2.5.2"
   },
   "devDependencies": {
-    "luxon": "^1.12.1"
+    "luxon": "^2.5.2"
   },
   "type": "module",
   "main": "main.js",
